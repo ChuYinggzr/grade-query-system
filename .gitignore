@@ -1,0 +1,15 @@
+# 数据库密码（含敏感信息），不提交
+# 密码通过环境变量 DB_PASSWORD 设置，不要写进仓库
+
+# Python 运行缓存
+__pycache__/
+*.pyc
+
+# 虚拟环境
+.venv/
+venv/
+env/
+
+# 编辑器
+.idea/
+.vscode/

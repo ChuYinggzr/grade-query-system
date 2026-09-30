@@ -1,4 +1,6 @@
 -- 成绩查询系统 - 建库建表 + 示例数据
+-- 警告：本文件会删除整个 grade_system 数据库；已有数据时不要执行。
+-- SQLAlchemy 新版首次建表请使用 README 中的 --init-db 流程，不需要本脚本。
 -- 在 DataGrip / PyCharm Database / MySQL 命令行中执行本文件。
 -- 说明：本脚本可重复执行，每次运行会重建 grade_system 库（会清除已有数据）。
 
